@@ -7,6 +7,7 @@
 // Hey there
 import SwiftUI
 
+// hi there
 struct ContentView: View {
     var body: some View {
         ScrollView(.horizontal) {
